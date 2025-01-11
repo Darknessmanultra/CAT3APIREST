@@ -63,7 +63,7 @@ builder.Services.AddSingleton(new Cloudinary(new Account(
 )));
 builder.Services.AddScoped<UserService>();
 var app = builder.Build();
-
+app.UseCors("AllowSpecificOrigin");
 
 app.UseSwagger();
 app.UseSwaggerUI();
