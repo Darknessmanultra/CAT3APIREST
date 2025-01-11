@@ -168,3 +168,4 @@ D:\s\segundo semestre 2024\Webos\Cátedra\cat3\CAT3B\obj\Debug\net8.0\refint\CAT
 D:\s\segundo semestre 2024\Webos\Cátedra\cat3\CAT3B\obj\Debug\net8.0\CAT3B.pdb
 D:\s\segundo semestre 2024\Webos\Cátedra\cat3\CAT3B\obj\Debug\net8.0\CAT3B.genruntimeconfig.cache
 D:\s\segundo semestre 2024\Webos\Cátedra\cat3\CAT3B\obj\Debug\net8.0\ref\CAT3B.dll
+D:\s\segundo semestre 2024\Webos\Cátedra\cat3\CAT3B\obj\Debug\net8.0\CAT3B.sourcelink.json
