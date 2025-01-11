@@ -1,0 +1,6 @@
+@CAT3B_HostAddress = http://localhost:5018
+
+GET {{CAT3B_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
