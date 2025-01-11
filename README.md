@@ -4,3 +4,4 @@
 
 Requisitos:
 -Tener Node.js v20.8.0 instalado
+-En app.setting deberás usar tus propias credenciales para cloudinary
